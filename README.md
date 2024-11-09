@@ -1,6 +1,6 @@
 ## 个人简介
-年级：\operatorname{Grade \ 6}\
-坐标：\operatorname{GD}\
+年级：Grade 6 \
+坐标：GD \
 定位：蒟蒻 \
 洛谷号: \_Constructer\_
 ## 练习信息
